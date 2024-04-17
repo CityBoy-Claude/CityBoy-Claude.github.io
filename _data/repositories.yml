@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - CityBoy-Claude
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - CityBoy-Claude/Littlelemon-API-Django
+  - csjcliang/news 
+  - CityBoy-Claude/Trade-off-Louvain-D-Louvain
+  - CityBoy-Claude/Package_Statistics
