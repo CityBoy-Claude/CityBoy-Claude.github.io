@@ -6,7 +6,7 @@
     "email": "cenhao.li@outlook.com",
     "phone": "",
     "url": "https://cityboy-claude.github.io/",
-    "summary": "A motivated Software Engineer working on low-latency real-time systems. Passionate about advancing software infrastructure, distributed systems, and machine learning.",
+    "summary": "A motivated Software Engineer working on Autonomous Vehicle software systems. Passionate about advancing software infrastructure, distributed systems, and machine learning.",
     "profiles": [
       {
         "network": "LinkedIn",
@@ -17,11 +17,23 @@
   },
   "work": [
     {
+      "name": "Aurora Innovation",
+      "position": "Software Engineer",
+      "url": "https://aurora.tech/",
+      "startDate": "2024-09-09",
+      "endDate": "",
+      "summary": "Built high-performance and secure software systems and improved the framework which AV Motion Planning Algorithms integrate.",
+      "highlights": [
+                      "Implemented robust interfaces in C++ to represent autonomous vehicle environment and ego status by integrating online map and sensor data, and serialized information into protobuf format for downstream planning algorithms and visualization.",
+                      "Optimized trajectory ranking latency by extracting strategy-free boundary data, reducing tensor size in CUDA to eliminate redundant boundary violence cost computation across multiple strategies."
+                    ]
+    },
+    {
       "name": "Hughes Network System",
-      "position": "MTS2-Software Engineer",
+      "position": "Software Engineer",
       "url": "https://www.hughes.com/",
       "startDate": "2023-07-10",
-      "endDate": "",
+      "endDate": "2024-08-26",
       "summary": "Designed and implemented software for the low-latency LEO satellite user terminal system.",
       "highlights": [
                       "Enhanced FPGA interfaces in C++ to interact with 10+ PCIe devices on the satellite user terminal, a real-time embedded system, conducted unit-test with CTest, resulting in a substantial increase in code coverage from 60% to 90%.",
